@@ -21,3 +21,17 @@ In this paper, we propose MZNet, a U-shaped network designed to bring images clo
 Experiments on benchmark datasets demonstrate that MZNet achieves state-of-the-art performance on high-resolution datasets and delivers competitive results on lower-resolution dataset, while maintaining a low computational cost, suggesting that it is an efficient and practical solution for real-world applications.
 
 
+## 📚 Citation
+If you find our work useful, please consider citing:
+
+```bibtex
+@misc{lee2025moirezeroefficienthighperformance,
+      title={Moir\'e Zero: An Efficient and High-Performance Neural Architecture for Moir\'e Removal}, 
+      author={Seungryong Lee and Woojeong Baek and Younghyun Kim and Eunwoo Kim and Haru Moon and Donggon Yoo and Eunbyung Park},
+      year={2025},
+      eprint={2507.22407},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.22407}, 
+}
+```
